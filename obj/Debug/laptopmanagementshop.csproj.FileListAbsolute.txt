@@ -1,0 +1,67 @@
+D:\C#\laptopmanagementshop\bin\Debug\laptopmanagementshop.exe.config
+D:\C#\laptopmanagementshop\bin\Debug\laptopmanagementshop.exe
+D:\C#\laptopmanagementshop\bin\Debug\laptopmanagementshop.pdb
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.csprojAssemblyReference.cache
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.Form1.resources
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.Properties.Resources.resources
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.csproj.GenerateResource.cache
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.csproj.CoreCompileInputs.cache
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.exe
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.pdb
+D:\C#\laptopmanagementshop\bin\Debug\Guna.UI2.dll
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.csproj.CopyComplete
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_AddNewPhone.resources
+D:\C#\laptopmanagementshop\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\laptopmanagementshop\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Customer.resources
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Stock.resources
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_CustomerRecords.resources
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_DeletePhoneRecord.resources
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Accessories.resources
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Accessories_Purchase.resources
+D:\C#\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Accessories_Stock.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\bin\Debug\laptopmanagementshop.exe.config
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\bin\Debug\laptopmanagementshop.exe
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\bin\Debug\laptopmanagementshop.pdb
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.csprojAssemblyReference.cache
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Accessories.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Accessories_Purchase.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Accessories_Stock.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_AddNewPhone.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Customer.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_CustomerRecords.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_DeletePhoneRecord.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Stock.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.Form1.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.Properties.Resources.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.csproj.GenerateResource.cache
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.csproj.CoreCompileInputs.cache
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.csproj.CopyComplete
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.exe
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.pdb
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.Login.resources
+C:\Users\Trust Computer\Downloads\Compressed\laptopmanagementshop\obj\Debug\laptopmanagementshop.UC_login.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\bin\Debug\laptopmanagementshop.exe.config
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\bin\Debug\laptopmanagementshop.exe
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\bin\Debug\laptopmanagementshop.pdb
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.csprojAssemblyReference.cache
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.Login.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Accessories.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Accessories_Purchase.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Accessories_Stock.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_AddNewPhone.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Customer.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_CustomerRecords.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_DeletePhoneRecord.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.AllUserControl.UC_Stock.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.Form1.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.Properties.Resources.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.UC_login.resources
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.csproj.GenerateResource.cache
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.csproj.CoreCompileInputs.cache
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.csproj.CopyComplete
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.exe
+E:\project\repos 11\laptopmanagementshop\laptopmanagementshop\obj\Debug\laptopmanagementshop.pdb
